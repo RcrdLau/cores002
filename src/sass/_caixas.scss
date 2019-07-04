@@ -1,0 +1,21 @@
+h2 + div > div, div + div > div {
+    display: inline-block;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 30px auto;
+	// border: 1px solid #ccc;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0;
+	font-size: 30px;
+    font-weight: normal;
+    color: #524e4e;
+}
+
+.flex {
+	display: flex;
+}
